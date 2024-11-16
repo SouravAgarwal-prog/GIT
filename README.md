@@ -1,2 +1,2 @@
 # GIT
-This is to learn about basucs of git and github
+This is to learn about basics of git and github
