@@ -5,5 +5,6 @@ int main(){
     cin>>a;
     int b;
     cin>>b;
+    cout<<"hello"<<endl;
     cout<<a*b<<endl;
 }
