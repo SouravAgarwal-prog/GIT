@@ -5,5 +5,6 @@ int main(){
     cin>>a;
     int b;
     cin>>b;
+    cout<<"i am in main branch"<<endl;
     cout<<a*b<<endl;
 }
