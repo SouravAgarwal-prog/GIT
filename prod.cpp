@@ -5,5 +5,6 @@ int main(){
     cin>>a;
     int b;
     cin>>b;
+    cout<<"I am in parallel branch"<<endl;
     cout<<a*b<<endl;
 }
