@@ -8,13 +8,13 @@
 ## Quoting text :-
 - You can quote text with a >.
 - Text that is not a quote
-- > Text that is a quote
+ > Text that is a quote
 ## links :-
 - format to insert link is '[description](required link)'
 - This site was built using [GitHub Pages](https://pages.github.com/).
 ## Images :-
 - Here is the images :
-- ![image 1](https://astrix.security/wp-content/uploads/2024/05/GitHub-Apps-Bug-Created-Significant-3rd-Party-Risk_-How-You-Can-Stay-Protected-1.png).
+ ![image 1](https://astrix.security/wp-content/uploads/2024/05/GitHub-Apps-Bug-Created-Significant-3rd-Party-Risk_-How-You-Can-Stay-Protected-1.png).
 ## lists :-
 ### ordered list
 1. James Madison
@@ -30,18 +30,18 @@
 ## FootNotes :-
 - Here is a simple footnote[^1].
 - A footnote can also have multiple lines[^2].
-- [^1]: My reference.
-- [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+ [^1]: My reference.
+ [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
   This is a second line.
 ## Alerts :-
-- > [!NOTE]
-- > Useful information that users should know, even when skimming content.
+ > [!NOTE]
+ > Useful information that users should know, even when skimming content.
 
-- > [!TIP]
-- > Helpful advice for doing things better or more easily.
+ > [!TIP]
+ > Helpful advice for doing things better or more easily.
 
-- > [!IMPORTANT]
-- > Key information users need to know to achieve their goal.
+ > [!IMPORTANT]
+ > Key information users need to know to achieve their goal.
 ## Code :-
 - To format code or text into its own distinct block, use triple backticks.
 - Some basic Git commands are:
