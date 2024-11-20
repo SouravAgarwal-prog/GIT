@@ -56,12 +56,12 @@ git commit
 
 ## Tables in README file :-
 - You can create tables with pipes | and hyphens -. Hyphens are used to create each column's header, while pipes separate each column. You must include a blank line before your table in order for it to correctly render.
-```
-| Command | Description |
+
+- | Command | Description |
 | --- | --- |
 | 'git status' | List all new or modified files |
 | 'git diff' | Show file differences that haven't been staged |
-```
+
 
 
 
